@@ -24,11 +24,10 @@ It allows users to convert currencies in real-time with a clean and user-friendl
 
 ## 📷 Screenshots
 ![App Screenshot](screenshot.png)  
-*(Replace `screenshot.png` with your actual screenshot if you add one)*
 
 ---
 
 ## ⚡ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/Siddheshwar4141/currency-converter.git
